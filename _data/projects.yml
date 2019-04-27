@@ -1,7 +1,7 @@
 - id: 2
   title: Tic tac toe
   url: https://tic-or-treat.herokuapp.com/
-  github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
+  github_url: https://github.com/livfahim/tic_or_treat
   description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
   technologies: [
                   html5-plain,
@@ -23,7 +23,7 @@
 - id: 3
   title: Stack Overflow Clone
   url: https://dbc-hackoverflow.herokuapp.com/
-  github_url: https://github.com/wvicioso/hackoverflow
+  github_url: https://github.com/livfahim/hackoverflow
   description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
   technologies: [
                   html5-plain,
@@ -42,7 +42,7 @@
 - id: 4
   title: ShootThingsGame
   url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
+  github_url: https://github.com/livfahim/shootThingsGame
   description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
   technologies: [
                   html5-plain,
