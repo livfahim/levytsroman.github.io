@@ -41,7 +41,7 @@
   ]
 - id: 4
   title: ShootThingsGame
-  url: https://levytsroman.github.io/shootThingsGame/
+  url: https://livfahim.github.io/shootThingsGame/
   github_url: https://github.com/livfahim/shootThingsGame
   description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
   technologies: [
